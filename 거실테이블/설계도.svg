@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="980" viewBox="0 0 1180 980">
+  <rect width="1180" height="980" fill="#f7f4ef"/>
+  <text x="40" y="40" font-size="28" font-weight="700" font-family="Apple SD Gothic Neo, sans-serif" fill="#1c1915">거실 테이블 설계도</text>
+  <text x="40" y="66" font-size="15" font-family="Apple SD Gothic Neo, sans-serif" fill="#5c564c">60×50. 평면과 정면 같은 축척. 상판 18 + 덧판 60×60×18 + 다리 Ø45×380 = 높이 416. 단위 mm</text>
+  <text x="40" y="108" font-size="16" font-weight="700" font-family="Apple SD Gothic Neo, sans-serif">평면 · 점선은 밑 덧판 60×60</text>
+  <polygon points="56.0,421.4 56.2,423.8 56.6,426.2 57.4,428.5 58.5,430.7 59.8,432.7 61.4,434.6 63.3,436.2 65.3,437.5 67.5,438.6 69.8,439.4 72.2,439.8 74.6,440.0 380.4,439.6 384.0,438.5 387.3,436.6 390.2,434.1 392.5,431.1 394.1,427.7 395.0,424.1 395.2,420.3 394.6,416.5 393.2,413.0 391.2,409.8 388.5,407.1 83.6,153.4 80.4,152.0 77.0,151.3 73.5,151.1 70.0,151.7 66.7,152.9 63.7,154.6 61.1,157.0 58.9,159.7 57.3,162.9 56.3,166.2 56.0,169.7" fill="#e4c89a" stroke="#6f542c" stroke-width="2"/>
+  <rect x="68.1" y="390.7" width="37.2" height="37.2" fill="#dfc090" stroke="#8a6a3b" stroke-dasharray="3 2"/><rect x="330.7" y="392.9" width="37.2" height="37.2" fill="#dfc090" stroke="#8a6a3b" stroke-dasharray="3 2"/><rect x="66.3" y="173.2" width="37.2" height="37.2" fill="#dfc090" stroke="#8a6a3b" stroke-dasharray="3 2"/>
+  <circle cx="86.7" cy="409.3" r="13.9" fill="#d7b888" stroke="#6f542c" stroke-width="1.5"/><circle cx="349.3" cy="411.5" r="13.9" fill="#d7b888" stroke="#6f542c" stroke-width="1.5"/><circle cx="84.9" cy="191.8" r="13.9" fill="#d7b888" stroke="#6f542c" stroke-width="1.5"/>
+  <text x="62.0" y="456.0" font-size="15" font-family="Apple SD Gothic Neo, sans-serif">90° · 70</text><text x="350.0" y="456.0" font-size="15" font-family="Apple SD Gothic Neo, sans-serif">40° · 135</text><text x="70.0" y="134.0" font-size="15" font-family="Apple SD Gothic Neo, sans-serif">50° · 110</text>
+  <text x="20" y="285.0" font-size="14" font-family="Apple SD Gothic Neo, sans-serif">500</text>
+  <text x="192.4" y="462.0" font-size="14" font-family="Apple SD Gothic Neo, sans-serif">600</text>
+  <text x="300" y="200" font-size="14" font-family="Apple SD Gothic Neo, sans-serif">빗변 781 · 소파</text>
+
+  <text x="540" y="108" font-size="16" font-weight="700" font-family="Apple SD Gothic Neo, sans-serif">정면 · 빗변 · 같은 축척</text>
+  <line x1="555.0" y1="440.0" x2="958.1" y2="440.0" stroke="#1c1915" stroke-width="2"/>
+  <rect x="776.5" y="204.4" width="27.9" height="235.6" fill="#c9a571" stroke="#6f542c"/><rect x="573.4" y="204.4" width="27.9" height="235.6" fill="#c9a571" stroke="#6f542c"/><rect x="917.1" y="204.4" width="27.9" height="235.6" fill="#c9a571" stroke="#6f542c"/>
+  <rect x="771.9" y="193.2" width="37.2" height="11.2" fill="#d9b784" stroke="#6f542c"/><rect x="568.7" y="193.2" width="37.2" height="11.2" fill="#d9b784" stroke="#6f542c"/><rect x="912.5" y="193.2" width="37.2" height="11.2" fill="#d9b784" stroke="#6f542c"/>
+  <rect x="560.0" y="182.1" width="393.1" height="11.2" fill="#e4c89a" stroke="#6f542c"/>
+  <line x1="967.1" y1="182.1" x2="967.1" y2="440.0" stroke="#1c1915"/>
+  <line x1="961.1" y1="182.1" x2="973.1" y2="182.1" stroke="#1c1915"/>
+  <line x1="961.1" y1="440.0" x2="973.1" y2="440.0" stroke="#1c1915"/>
+  <text x="975.1" y="311.0" font-size="15" font-family="Apple SD Gothic Neo, sans-serif">416</text>
+  <text x="560.0" y="462.0" font-size="14" font-family="Apple SD Gothic Neo, sans-serif">40°</text>
+  <text x="925.1" y="462.0" font-size="14" font-family="Apple SD Gothic Neo, sans-serif">50°</text>
+  <text x="702.5" y="170.1" font-size="14" font-family="Apple SD Gothic Neo, sans-serif">둥근 뒤 634</text>
+
+  <text x="40" y="520" font-size="16" font-weight="700" font-family="Apple SD Gothic Neo, sans-serif">재단 · 60×100을 반으로. 왼쪽은 대각선, 오른쪽에서 60×60 덧판 6개</text>
+  <rect x="40" y="544" width="420" height="252" fill="#f7f1e6" stroke="#8a6a3b" stroke-width="2"/>
+  <line x1="250" y1="544" x2="250" y2="796" stroke="#6f542c" stroke-width="2"/>
+  <line x1="52" y1="784" x2="238" y2="556" stroke="#6f542c" stroke-dasharray="7 5" stroke-width="2"/>
+  <rect x="256" y="550" width="25.2" height="25.2" fill="#dfc090" stroke="#6f542c"/>
+  <rect x="285" y="550" width="25.2" height="25.2" fill="#dfc090" stroke="#6f542c"/>
+  <rect x="314" y="550" width="25.2" height="25.2" fill="#dfc090" stroke="#6f542c"/>
+  <rect x="256" y="580" width="25.2" height="25.2" fill="#dfc090" stroke="#6f542c"/>
+  <rect x="285" y="580" width="25.2" height="25.2" fill="#dfc090" stroke="#6f542c"/>
+  <rect x="314" y="580" width="25.2" height="25.2" fill="#dfc090" stroke="#6f542c"/>
+  <text x="72" y="620" font-size="15" font-family="Apple SD Gothic Neo, sans-serif">상판 둘</text>
+  <text x="352" y="584" font-size="14" font-family="Apple SD Gothic Neo, sans-serif">덧판 6</text>
+  <text x="320" y="720" font-size="15" font-family="Apple SD Gothic Neo, sans-serif" fill="#5c564c">남음</text>
+
+  <text x="40" y="860" font-size="14" font-family="Apple SD Gothic Neo, sans-serif" fill="#3d3832">철물 없음. 60×60 덧판 붙인 뒤, 목심 8×40 두 개. 위·다리 양쪽 구멍 모두 깊이 21.</text>
+  <text x="40" y="888" font-size="14" font-family="Apple SD Gothic Neo, sans-serif" fill="#3d3832">봉 2400에서 380 × 6개(여유 약 100mm). 정면 다리는 균등하지 않다. 앉지 않는다.</text>
+</svg>

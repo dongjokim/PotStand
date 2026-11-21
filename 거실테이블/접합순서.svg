@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1520" height="980" viewBox="0 0 1520 980">
+  <rect width="1520" height="980" fill="#f7f4ef"/>
+  <text x="40" y="42" font-size="28" font-weight="700" font-family="Apple SD Gothic Neo, sans-serif" fill="#1c1915">접합 순서 · 철물 없음 (덧판 + 목심)</text>
+  <text x="40" y="70" font-size="15" font-family="Apple SD Gothic Neo, sans-serif" fill="#5c564c">60×60×18 덧판으로 다리 자리를 36mm로 두껍게 만든 뒤, 8×40 목심 두 개. 양쪽 모두 깊이 21mm. 단위 mm</text>
+
+  <!-- Step 1 -->
+  <text x="44" y="116" font-size="18" font-weight="700" font-family="Apple SD Gothic Neo, sans-serif">1. 덧판 붙이기</text>
+  <rect x="64" y="210" width="270" height="54" fill="#e4c89a" stroke="#6f542c" stroke-width="2"/>
+  <rect x="109" y="264" width="180" height="54" fill="#d9b784" stroke="#6f542c" stroke-width="2"/>
+  <rect x="109" y="260" width="180" height="7" fill="#e07a28"/>
+  <rect x="154" y="160" width="90" height="36" rx="4" fill="#cfc6ba" stroke="#6f542c"/>
+  <text x="199" y="183" text-anchor="middle" font-size="14" font-family="Apple SD Gothic Neo, sans-serif">무게</text>
+  <text x="346" y="242" font-size="14" font-family="Apple SD Gothic Neo, sans-serif">상판 18</text>
+  <text x="302" y="296" font-size="14" font-family="Apple SD Gothic Neo, sans-serif">덧판 18</text>
+  <text x="44" y="364" font-size="14" font-family="Apple SD Gothic Neo, sans-serif" fill="#3d3832">남는 판에서 60×60 여섯 개</text>
+  <text x="44" y="388" font-size="14" font-family="Apple SD Gothic Neo, sans-serif" fill="#3d3832">다리 중심에 본드로 붙여 36mm로</text>
+  <text x="44" y="412" font-size="14" font-family="Apple SD Gothic Neo, sans-serif" fill="#3d3832">무거운 것으로 눌러 2–3시간 말림</text>
+
+  <!-- Step 2 -->
+  <text x="460" y="116" font-size="18" font-weight="700" font-family="Apple SD Gothic Neo, sans-serif">2. 양쪽 다 깊이 21mm 뚫기</text>
+  <!-- top+pad -->
+  <rect x="480" y="170" width="270" height="54" fill="#e4c89a" stroke="#6f542c" stroke-width="2"/>
+  <rect x="525" y="224" width="180" height="54" fill="#d9b784" stroke="#6f542c" stroke-width="2"/>
+  <rect x="573" y="215" width="24" height="63" fill="#f7f4ef" stroke="#1c1915"/>
+  <rect x="633" y="215" width="24" height="63" fill="#f7f4ef" stroke="#1c1915"/>
+  <line x1="766" y1="215" x2="766" y2="278" stroke="#1c1915"/>
+  <line x1="760" y1="215" x2="772" y2="215" stroke="#1c1915"/>
+  <line x1="760" y1="278" x2="772" y2="278" stroke="#1c1915"/>
+  <text x="780" y="252" font-size="14" font-family="Apple SD Gothic Neo, sans-serif">깊이 21</text>
+  <text x="780" y="200" font-size="13" font-family="Apple SD Gothic Neo, sans-serif" fill="#5c564c">위로 15 남음</text>
+  <!-- leg -->
+  <rect x="548" y="316" width="135" height="104" fill="#c9a571" stroke="#6f542c" stroke-width="2"/>
+  <rect x="573" y="316" width="24" height="63" fill="#f7f4ef" stroke="#1c1915"/>
+  <rect x="633" y="316" width="24" height="63" fill="#f7f4ef" stroke="#1c1915"/>
+  <line x1="704" y1="316" x2="704" y2="379" stroke="#1c1915"/>
+  <line x1="698" y1="316" x2="710" y2="316" stroke="#1c1915"/>
+  <line x1="698" y1="379" x2="710" y2="379" stroke="#1c1915"/>
+  <text x="718" y="352" font-size="14" font-family="Apple SD Gothic Neo, sans-serif">깊이 21</text>
+  <!-- drill bit -->
+  <line x1="870" y1="230" x2="870" y2="360" stroke="#5c564c" stroke-width="3"/>
+  <polygon points="870,210 864,230 876,230" fill="#5c564c"/>
+  <rect x="862" y="273" width="16" height="9" fill="#c4503a"/>
+  <text x="890" y="282" font-size="14" font-family="Apple SD Gothic Neo, sans-serif">비트 끝에서 21</text>
+  <text x="890" y="304" font-size="13" font-family="Apple SD Gothic Neo, sans-serif" fill="#5c564c">양쪽 같은 테이프</text>
+  <text x="460" y="454" font-size="14" font-family="Apple SD Gothic Neo, sans-serif" fill="#3d3832">Ø8 두 개, 중심 간격 20. 상판은 3mm만 들어가 뚫릴 걱정 없음</text>
+
+  <!-- Step 3 -->
+  <text x="1080" y="116" font-size="18" font-weight="700" font-family="Apple SD Gothic Neo, sans-serif">3. 본드, 목심</text>
+  <rect x="1125" y="264" width="135" height="150" fill="#c9a571" stroke="#6f542c" stroke-width="2"/>
+  <rect x="1125" y="264" width="135" height="8" fill="#e07a28"/>
+  <rect x="1150" y="207" width="24" height="120" fill="#a8804c" stroke="#6f542c"/>
+  <rect x="1210" y="207" width="24" height="120" fill="#a8804c" stroke="#6f542c"/>
+  <line x1="1276" y1="207" x2="1276" y2="264" stroke="#1c1915"/>
+  <line x1="1270" y1="207" x2="1282" y2="207" stroke="#1c1915"/>
+  <line x1="1270" y1="264" x2="1282" y2="264" stroke="#1c1915"/>
+  <text x="1290" y="242" font-size="14" font-family="Apple SD Gothic Neo, sans-serif">약 19 밖으로</text>
+  <text x="1080" y="454" font-size="14" font-family="Apple SD Gothic Neo, sans-serif" fill="#3d3832">끝 단면은 본드를 한 번 더 먹인다</text>
+
+  <!-- Step 4 -->
+  <text x="44" y="530" font-size="18" font-weight="700" font-family="Apple SD Gothic Neo, sans-serif">4. 맞춰 덮고 하루</text>
+  <rect x="174" y="556" width="90" height="34" rx="4" fill="#cfc6ba" stroke="#6f542c"/>
+  <text x="219" y="578" text-anchor="middle" font-size="14" font-family="Apple SD Gothic Neo, sans-serif">무게</text>
+  <rect x="84" y="602" width="270" height="54" fill="#e4c89a" stroke="#6f542c" stroke-width="2"/>
+  <rect x="129" y="656" width="180" height="54" fill="#d9b784" stroke="#6f542c" stroke-width="2"/>
+  <rect x="151" y="710" width="135" height="150" fill="#c9a571" stroke="#6f542c" stroke-width="2"/>
+  <rect x="176" y="647" width="24" height="120" fill="#a8804c" stroke="#6f542c"/>
+  <rect x="236" y="647" width="24" height="120" fill="#a8804c" stroke="#6f542c"/>
+  <text x="372" y="700" font-size="14" font-family="Apple SD Gothic Neo, sans-serif">면이 맞닿게</text>
+  <text x="372" y="724" font-size="14" font-family="Apple SD Gothic Neo, sans-serif">누르고 하루</text>
+
+  <!-- Section -->
+  <text x="640" y="530" font-size="18" font-weight="700" font-family="Apple SD Gothic Neo, sans-serif">붙인 뒤 단면 · 구멍 하나 (scale 4×)</text>
+  <!-- top 18 (72px), pad 18 (72px), leg -->
+  <rect x="740" y="570" width="320" height="72" fill="#e4c89a" stroke="#6f542c" stroke-width="2"/>
+  <rect x="780" y="642" width="240" height="72" fill="#d9b784" stroke="#6f542c" stroke-width="2"/>
+  <rect x="810" y="714" width="180" height="170" fill="#c9a571" stroke="#6f542c" stroke-width="2"/>
+  <!-- hole 21 up (84px: 714-84=630) + 21 down (84px: 714+84=798) -->
+  <rect x="884" y="630" width="32" height="168" fill="#f7f4ef" stroke="#1c1915"/>
+  <!-- dowel 40 (160px: 630..790), bottom 2mm (8px: 790..798) glue -->
+  <rect x="884" y="630" width="32" height="160" fill="#a8804c" stroke="#6f542c"/>
+  <rect x="884" y="790" width="32" height="8" fill="#e07a28"/>
+  <!-- dims -->
+  <line x1="1080" y1="570" x2="1080" y2="642" stroke="#1c1915"/>
+  <line x1="1074" y1="570" x2="1086" y2="570" stroke="#1c1915"/>
+  <line x1="1074" y1="642" x2="1086" y2="642" stroke="#1c1915"/>
+  <text x="1094" y="611" font-size="14" font-family="Apple SD Gothic Neo, sans-serif">상판 18 (위로 15 남음)</text>
+  <line x1="1080" y1="642" x2="1080" y2="714" stroke="#1c1915"/>
+  <line x1="1074" y1="714" x2="1086" y2="714" stroke="#1c1915"/>
+  <text x="1094" y="683" font-size="14" font-family="Apple SD Gothic Neo, sans-serif">덧판 18</text>
+  <line x1="766" y1="630" x2="766" y2="714" stroke="#1c1915"/>
+  <line x1="760" y1="630" x2="772" y2="630" stroke="#1c1915"/>
+  <line x1="760" y1="714" x2="772" y2="714" stroke="#1c1915"/>
+  <text x="676" y="676" font-size="14" font-family="Apple SD Gothic Neo, sans-serif">위 구멍 21</text>
+  <line x1="766" y1="714" x2="766" y2="798" stroke="#1c1915"/>
+  <line x1="760" y1="798" x2="772" y2="798" stroke="#1c1915"/>
+  <text x="676" y="762" font-size="14" font-family="Apple SD Gothic Neo, sans-serif">다리 구멍 21</text>
+  <line x1="916" y1="794" x2="1002" y2="794" stroke="#9a4a12" stroke-dasharray="3 2"/>
+  <text x="1008" y="799" font-size="14" font-family="Apple SD Gothic Neo, sans-serif" fill="#9a4a12">바닥 2는 본드</text>
+  <text x="640" y="924" font-size="15" font-family="Apple SD Gothic Neo, sans-serif" fill="#3d3832">목심 40 = 위 21 + 다리 19. 면은 붙고 구멍 바닥에 2mm가 남는다.</text>
+  <text x="44" y="948" font-size="15" font-family="Apple SD Gothic Neo, sans-serif" fill="#3d3832">다리 380 + 덧판 18 + 상판 18 = 총 높이 416mm. 본드 마른 뒤 다리 밑에 펠트.</text>
+</svg>

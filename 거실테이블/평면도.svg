@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="720" viewBox="0 0 1100 720">
+  <rect width="1100" height="720" fill="#f7f4ef"/>
+  <text x="40" y="46" font-size="28" font-weight="700" font-family="Apple SD Gothic Neo, sans-serif" fill="#1c1915">60×100 판 재단 (상판 둘 + 덧판 여섯)</text>
+  <text x="40" y="78" font-size="16" font-family="Apple SD Gothic Neo, sans-serif" fill="#5c564c">실측 비. 반으로 잘라 왼쪽은 대각선, 오른쪽에서 60×60 덧판 6개. 단위 mm.</text>
+  <rect x="60" y="120" width="550.0" height="330.0" fill="#f7f1e6" stroke="#8a6a3b" stroke-width="2"/>
+  <line x1="335.0" y1="120" x2="335.0" y2="450.0" stroke="#6f542c" stroke-width="2"/>
+  <line x1="76" y1="434.0" x2="319.0" y2="136" stroke="#6f542c" stroke-dasharray="8 6" stroke-width="2"/>
+  <rect x="345.0" y="130" width="33.0" height="33.0" fill="#dfc090" stroke="#6f542c"/>
+  <rect x="383.0" y="130" width="33.0" height="33.0" fill="#dfc090" stroke="#6f542c"/>
+  <rect x="421.0" y="130" width="33.0" height="33.0" fill="#dfc090" stroke="#6f542c"/>
+  <rect x="345.0" y="168" width="33.0" height="33.0" fill="#dfc090" stroke="#6f542c"/>
+  <rect x="383.0" y="168" width="33.0" height="33.0" fill="#dfc090" stroke="#6f542c"/>
+  <rect x="421.0" y="168" width="33.0" height="33.0" fill="#dfc090" stroke="#6f542c"/>
+  <text x="100" y="180" font-size="18" font-family="Apple SD Gothic Neo, sans-serif">상판 둘</text>
+  <text x="467.0" y="176" font-size="16" font-family="Apple SD Gothic Neo, sans-serif">60×60 덧판 6개</text>
+  <text x="415.0" y="350" font-size="18" font-family="Apple SD Gothic Neo, sans-serif" fill="#5c564c">남음</text>
+  <text x="170.0" y="482.0" font-size="16" font-family="Apple SD Gothic Neo, sans-serif">500</text>
+  <text x="445.0" y="482.0" font-size="16" font-family="Apple SD Gothic Neo, sans-serif">500</text>
+  <text x="24" y="285.0" font-size="16" font-family="Apple SD Gothic Neo, sans-serif">600</text>
+  <text x="40" y="680" font-size="16" font-family="Apple SD Gothic Neo, sans-serif" fill="#3d3832">다리 중심: 직각 70, 50°는 110, 40°는 135. 봉 하나에서 380mm × 6개, 총 높이 416mm.</text>
+</svg>

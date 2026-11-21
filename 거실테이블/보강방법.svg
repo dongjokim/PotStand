@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1520" height="920" viewBox="0 0 1520 920">
+  <rect width="1520" height="920" fill="#f7f4ef"/>
+  <text x="40" y="42" font-size="28" font-weight="700" font-family="Apple SD Gothic Neo, sans-serif" fill="#1c1915">강하게 하는 방법 세 가지</text>
+  <text x="40" y="70" font-size="15" font-family="Apple SD Gothic Neo, sans-serif" fill="#5c564c">상판 18mm, 다리 Ø45. 남는 60×50 반 장을 그대로 쓸 수 있다. 단위 mm</text>
+
+  <!-- 1: socket pad -->
+  <rect x="36" y="100" width="460" height="760" rx="10" fill="#fbf9f6" stroke="#ddd5c9"/>
+  <text x="58" y="138" font-size="19" font-weight="700" font-family="Apple SD Gothic Neo, sans-serif">1. 덧판 소켓 (가장 단단, 추가비 0)</text>
+  <text x="58" y="164" font-size="14" font-family="Apple SD Gothic Neo, sans-serif" fill="#5c564c">남는 판으로 75×75에 Ø45 구멍 → 다리가 18mm 통째로 꽂힘</text>
+  <!-- side section -->
+  <rect x="96" y="210" width="320" height="54" fill="#e4c89a" stroke="#6f542c" stroke-width="2"/>
+  <rect x="150" y="264" width="60" height="54" fill="#d9b784" stroke="#6f542c" stroke-width="2"/>
+  <rect x="302" y="264" width="60" height="54" fill="#d9b784" stroke="#6f542c" stroke-width="2"/>
+  <rect x="210" y="264" width="92" height="250" fill="#c9a571" stroke="#6f542c" stroke-width="2"/>
+  <rect x="244" y="230" width="24" height="106" fill="#a8804c" stroke="#6f542c"/>
+  <text x="424" y="242" font-size="13" font-family="Apple SD Gothic Neo, sans-serif">상판 18</text>
+  <text x="370" y="298" font-size="13" font-family="Apple SD Gothic Neo, sans-serif">덧판 18</text>
+  <text x="314" y="388" font-size="13" font-family="Apple SD Gothic Neo, sans-serif">다리 Ø45</text>
+  <text x="314" y="408" font-size="13" font-family="Apple SD Gothic Neo, sans-serif">18이 옆을 잡음</text>
+  <!-- bottom view -->
+  <text x="58" y="564" font-size="15" font-weight="700" font-family="Apple SD Gothic Neo, sans-serif">밑에서 본 모양</text>
+  <rect x="176" y="590" width="160" height="160" fill="#d9b784" stroke="#6f542c" stroke-width="2"/>
+  <circle cx="256" cy="670" r="46" fill="#c9a571" stroke="#6f542c" stroke-width="2"/>
+  <text x="256" y="675" text-anchor="middle" font-size="14" font-family="Apple SD Gothic Neo, sans-serif">Ø45</text>
+  <text x="58" y="796" font-size="14" font-family="Apple SD Gothic Neo, sans-serif" fill="#3d3832">• 덧판을 상판에 본드로 먼저 붙인다</text>
+  <text x="58" y="820" font-size="14" font-family="Apple SD Gothic Neo, sans-serif" fill="#3d3832">• 필요: Ø45 홀쏘(reikäsaha)</text>
+  <text x="58" y="844" font-size="14" font-family="Apple SD Gothic Neo, sans-serif" fill="#3d3832">• 가운데 목심 1개 더 넣으면 끝</text>
+
+  <!-- 2: apron -->
+  <rect x="530" y="100" width="460" height="760" rx="10" fill="#fbf9f6" stroke="#ddd5c9"/>
+  <text x="552" y="138" font-size="19" font-weight="700" font-family="Apple SD Gothic Neo, sans-serif">2. 밑 테두리 (에이프런, 추가비 0)</text>
+  <text x="552" y="164" font-size="14" font-family="Apple SD Gothic Neo, sans-serif" fill="#5c564c">남는 판으로 폭 50 막대 셋을 잘라 다리 사이를 잇는다</text>
+  <!-- side view -->
+  <rect x="590" y="210" width="330" height="54" fill="#e4c89a" stroke="#6f542c" stroke-width="2"/>
+  <rect x="640" y="264" width="46" height="250" fill="#c9a571" stroke="#6f542c" stroke-width="2"/>
+  <rect x="826" y="264" width="46" height="250" fill="#c9a571" stroke="#6f542c" stroke-width="2"/>
+  <rect x="686" y="264" width="140" height="106" fill="#d9b784" stroke="#6f542c" stroke-width="2"/>
+  <text x="756" y="324" text-anchor="middle" font-size="14" font-family="Apple SD Gothic Neo, sans-serif">폭 50 막대</text>
+  <!-- underside plan -->
+  <text x="552" y="564" font-size="15" font-weight="700" font-family="Apple SD Gothic Neo, sans-serif">상판 밑에서 본 배치</text>
+  <polygon points="610,756 610,596 900,756" fill="#e4c89a" stroke="#6f542c" stroke-width="2"/>
+  <line x1="636" y1="732" x2="636" y2="628" stroke="#8a5a2b" stroke-width="10"/>
+  <line x1="636" y1="732" x2="836" y2="732" stroke="#8a5a2b" stroke-width="10"/>
+  <line x1="636" y1="628" x2="836" y2="732" stroke="#8a5a2b" stroke-width="10"/>
+  <circle cx="636" cy="732" r="12" fill="#c9a571" stroke="#6f542c" stroke-width="2"/>
+  <circle cx="636" cy="628" r="12" fill="#c9a571" stroke="#6f542c" stroke-width="2"/>
+  <circle cx="836" cy="732" r="12" fill="#c9a571" stroke="#6f542c" stroke-width="2"/>
+  <text x="552" y="796" font-size="14" font-family="Apple SD Gothic Neo, sans-serif" fill="#3d3832">• 옆에서 밀어도 세 다리가 같이 버틴다</text>
+  <text x="552" y="820" font-size="14" font-family="Apple SD Gothic Neo, sans-serif" fill="#3d3832">• 단점: 각도 절단이 많아 초보자에겐 까다롭다</text>
+  <text x="552" y="844" font-size="14" font-family="Apple SD Gothic Neo, sans-serif" fill="#3d3832">• 상판과 막대는 본드 + 짧은 나사</text>
+
+  <!-- 3: plate -->
+  <rect x="1024" y="100" width="460" height="760" rx="10" fill="#fbf9f6" stroke="#ddd5c9"/>
+  <text x="1046" y="138" font-size="19" font-weight="700" font-family="Apple SD Gothic Neo, sans-serif">3. 철제 고정판 + 행거볼트 (가장 쉬움)</text>
+  <text x="1046" y="164" font-size="14" font-family="Apple SD Gothic Neo, sans-serif" fill="#5c564c">pöydänjalan kiinnityslevy. 다리를 돌려 끼운다</text>
+  <!-- side section -->
+  <rect x="1084" y="210" width="330" height="54" fill="#e4c89a" stroke="#6f542c" stroke-width="2"/>
+  <rect x="1146" y="264" width="206" height="14" fill="#7a7f86" stroke="#363a40" stroke-width="1.5"/>
+  <!-- 4 screws -->
+  <line x1="1166" y1="278" x2="1166" y2="230" stroke="#363a40" stroke-width="4"/>
+  <line x1="1332" y1="278" x2="1332" y2="230" stroke="#363a40" stroke-width="4"/>
+  <!-- leg + hanger bolt -->
+  <rect x="1204" y="278" width="90" height="236" fill="#c9a571" stroke="#6f542c" stroke-width="2"/>
+  <rect x="1241" y="264" width="16" height="96" fill="#5b6067" stroke="#222"/>
+  <text x="1358" y="276" font-size="13" font-family="Apple SD Gothic Neo, sans-serif">철제 판</text>
+  <text x="1306" y="344" font-size="13" font-family="Apple SD Gothic Neo, sans-serif">M8 볼트</text>
+  <text x="1306" y="366" font-size="13" font-family="Apple SD Gothic Neo, sans-serif">돌려 끼움</text>
+  <!-- bottom view -->
+  <text x="1046" y="564" font-size="15" font-weight="700" font-family="Apple SD Gothic Neo, sans-serif">고정판 모양</text>
+  <rect x="1174" y="594" width="150" height="150" rx="6" fill="#8b9199" stroke="#363a40" stroke-width="2"/>
+  <circle cx="1249" cy="669" r="18" fill="#52575e" stroke="#222" stroke-width="2"/>
+  <circle cx="1198" cy="618" r="7" fill="#fbf9f6" stroke="#222"/>
+  <circle cx="1300" cy="618" r="7" fill="#fbf9f6" stroke="#222"/>
+  <circle cx="1198" cy="720" r="7" fill="#fbf9f6" stroke="#222"/>
+  <circle cx="1300" cy="720" r="7" fill="#fbf9f6" stroke="#222"/>
+  <text x="1249" y="674" text-anchor="middle" font-size="12" fill="#fff" font-family="Apple SD Gothic Neo, sans-serif">M8</text>
+  <text x="1046" y="796" font-size="14" font-family="Apple SD Gothic Neo, sans-serif" fill="#3d3832">• 상판 밑에 4×16 나사 4개로 고정</text>
+  <text x="1046" y="820" font-size="14" font-family="Apple SD Gothic Neo, sans-serif" fill="#3d3832">• 18mm가 얇으면 덧판을 먼저 대고 나사</text>
+  <text x="1046" y="844" font-size="14" font-family="Apple SD Gothic Neo, sans-serif" fill="#3d3832">• 다리를 빼고 끼울 수 있다. 고정판 6개 필요</text>
+
+  <text x="40" y="896" font-size="15" font-weight="700" font-family="Apple SD Gothic Neo, sans-serif" fill="#1c1915">추천: 홀쏘가 있으면 1번. 도구 늘리기 싫으면 3번 + 남는 판 덧판.</text>
+</svg>

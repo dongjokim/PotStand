@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="640" viewBox="0 0 1000 640">
+  <rect width="1000" height="640" fill="#f7f4ef"/>
+  <text x="40" y="46" font-size="26" font-weight="700" font-family="Apple SD Gothic Neo, sans-serif" fill="#1c1915">거실 테이블 · 정면 (빗변, 실측 비)</text>
+  <text x="40" y="76" font-size="15" font-family="Apple SD Gothic Neo, sans-serif" fill="#5c564c">둥근 뒤 너비 634. 상판 18 + 덧판 18 + 다리 380 = 높이 416. 간격은 균등하지 않다.</text>
+  <line x1="54.8" y1="491.2" x2="712.3" y2="491.2" stroke="#1c1915" stroke-width="2"/>
+  <text x="36" y="519.2" font-size="15" font-family="Apple SD Gothic Neo, sans-serif" fill="#5c564c">바닥</text>
+  <rect x="401.7" y="130.2" width="42.8" height="361.0" fill="#c9a571" stroke="#6f542c" stroke-width="2"/><rect x="90.5" y="130.2" width="42.8" height="361.0" fill="#c9a571" stroke="#6f542c" stroke-width="2"/><rect x="617.2" y="130.2" width="42.8" height="361.0" fill="#c9a571" stroke="#6f542c" stroke-width="2"/>
+  <rect x="394.6" y="113.1" width="57.0" height="17.1" fill="#d9b784" stroke="#6f542c" stroke-width="2"/><rect x="83.3" y="113.1" width="57.0" height="17.1" fill="#d9b784" stroke="#6f542c" stroke-width="2"/><rect x="610.1" y="113.1" width="57.0" height="17.1" fill="#d9b784" stroke="#6f542c" stroke-width="2"/>
+  <rect x="70.0" y="96.0" width="602.3" height="17.1" fill="#e4c89a" stroke="#8a6a3b" stroke-width="2"/>
+  <line x1="688.3" y1="96.0" x2="688.3" y2="491.2" stroke="#1c1915"/>
+  <line x1="681.3" y1="96.0" x2="695.3" y2="96.0" stroke="#1c1915"/>
+  <line x1="681.3" y1="491.2" x2="695.3" y2="491.2" stroke="#1c1915"/>
+  <text x="700.3" y="293.6" font-size="18" font-family="Apple SD Gothic Neo, sans-serif">416</text>
+  <text x="77.6" y="543.2" font-size="16" font-family="Apple SD Gothic Neo, sans-serif">40° 뾰족</text>
+  <text x="624.3" y="543.2" font-size="16" font-family="Apple SD Gothic Neo, sans-serif">50°</text>
+</svg>
